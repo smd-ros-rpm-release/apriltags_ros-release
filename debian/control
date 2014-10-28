@@ -1,0 +1,12 @@
+Source: ros-hydro-apriltags-ros
+Section: misc
+Priority: extra
+Maintainer: Mitchell Wills <mwills@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-apriltags, ros-hydro-catkin, ros-hydro-cv-bridge, ros-hydro-geometry-msgs, ros-hydro-image-transport, ros-hydro-message-generation, ros-hydro-nodelet, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-apriltags-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-apriltags, ros-hydro-cv-bridge, ros-hydro-geometry-msgs, ros-hydro-image-transport, ros-hydro-message-runtime, ros-hydro-nodelet, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-tf
+Description: A package that provides a ROS wrapper for the apriltags C++ package
