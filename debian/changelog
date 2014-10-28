@@ -1,0 +1,7 @@
+ros-hydro-apriltags (0.0.1-0raring) raring; urgency=high
+
+  * Initial Commit from release r30 in https://svn.csail.mit.edu/apriltags
+
+ -- Mitchell Wills <mwills@wpi.edu>  Mon, 27 Oct 2014 04:00:00 -0000
+
+
