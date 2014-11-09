@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>apriltags</name>
+  <version>0.0.2</version>
+  <description>A catkin version of the C++ apriltags library</description>
+  <url>http://wiki.ros.org/apriltags</url>
+
+  <maintainer email="mwills@wpi.edu">Mitchell Wills</maintainer>
+
+  <license>LGPL</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>eigen</build_depend>
+  <build_depend>opencv2</build_depend>
+  <run_depend>eigen</run_depend>
+  <run_depend>opencv2</run_depend>
+
+
+  <export>
+  </export>
+</package>
