@@ -1,13 +1,18 @@
 <?xml version="1.0"?>
 <package>
   <name>apriltags_ros</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>A package that provides a ROS wrapper for the apriltags C++ package</description>
   <url>http://wiki.ros.org/apriltags_ros</url>
 
   <maintainer email="mwills@wpi.edu">Mitchell Wills</maintainer>
+  <author>Mitchell Wills</author>
 
   <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/apriltags_ros</url>
+  <url type="bugtracker">https://github.com/RIVeR-Lab/apriltags_ros/issues</url>
+  <url type="repository">https://github.com/RIVeR-Lab/apriltags_ros</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>apriltags</build_depend>
