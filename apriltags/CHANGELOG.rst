@@ -2,6 +2,11 @@
 Changelog for package apriltags
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2014-11-14)
+------------------
+* Updated author and website
+* Contributors: Mitchell Wills
+
 0.1.0 (2014-11-08)
 ------------------
 * Updated dependancies for indigo
