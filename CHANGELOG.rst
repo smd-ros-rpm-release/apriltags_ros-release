@@ -2,6 +2,11 @@
 Changelog for package apriltags
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2014-11-14)
+------------------
+* Updated author and website
+* Contributors: Mitchell Wills
+
 0.0.3 (2014-11-08)
 ------------------
 * Added info to package.xml
