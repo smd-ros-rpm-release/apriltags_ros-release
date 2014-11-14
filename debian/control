@@ -1,0 +1,12 @@
+Source: ros-indigo-apriltags
+Section: misc
+Priority: extra
+Maintainer: Mitchell Wills <mwills@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, libopencv-dev, libv4l-dev, ros-indigo-catkin, ros-indigo-cmake-modules
+Homepage: http://people.csail.mit.edu/kaess/apriltags/
+Standards-Version: 3.9.2
+
+Package: ros-indigo-apriltags
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, libopencv-dev, libv4l-dev
+Description: A catkin version of the C++ apriltags library
