@@ -1,0 +1,31 @@
+ros-hydro-apriltags (0.0.4-0quantal) quantal; urgency=high
+
+  * Updated author and website
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Fri, 14 Nov 2014 05:00:00 -0000
+
+ros-hydro-apriltags (0.0.3-0quantal) quantal; urgency=high
+
+  * Added info to package.xml
+  * Added libv4l-dev as a dependancy
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Sat, 08 Nov 2014 05:00:00 -0000
+
+ros-hydro-apriltags (0.0.2-0quantal) quantal; urgency=high
+
+  * Did some small cleanup and renaming to topics
+    Added the package ros wiki urls
+    Added example launch file
+  * Contributors: Mitchell Wills
+
+ -- Mitchell Wills <mwills@wpi.edu>  Fri, 31 Oct 2014 04:00:00 -0000
+
+ros-hydro-apriltags (0.0.1-0quantal) quantal; urgency=high
+
+  * Initial Commit from release r30 in https://svn.csail.mit.edu/apriltags
+
+ -- Mitchell Wills <mwills@wpi.edu>  Mon, 27 Oct 2014 04:00:00 -0000
+
+
